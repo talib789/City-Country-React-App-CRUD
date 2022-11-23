@@ -1,0 +1,44 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "USA",
+      "id": 2
+    }
+  ],
+  "cities": [
+    {
+      "country": "India",
+      "city": "Hyderabad",
+      "population": "6576577",
+      "id": 6
+    },
+    {
+      "country": "USA",
+      "city": "chicago",
+      "population": "343545654",
+      "id": 8
+    },
+    {
+      "country": "USA",
+      "city": "los Angelus ",
+      "population": "43432424",
+      "id": 9
+    },
+    {
+      "country": "India",
+      "city": "Daltonganj",
+      "population": "2334345555",
+      "id": 10
+    },
+    {
+      "country": "India",
+      "city": "Ranchi",
+      "population": "24234435456",
+      "id": 11
+    }
+  ]
+}
